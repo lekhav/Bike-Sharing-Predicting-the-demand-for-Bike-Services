@@ -1,0 +1,2 @@
+# Bike-Sharing-Predicting-the-demand-for-Bike-Services
+- Analyzed the trend in Bike share usage based on Weather conditions, time of day, month of year. - Models Trained: Decision Tree, Random Forest, Linear Regressor to train the dataset and learn the correlations between the data to predict the bike usage at different weather and time conditions. - Implemented One Hot Encoding and PCA. - Predicted the number of bikes that may be rented at the weather conditions for the Test data and got an RSMLE of 0.148 .
